@@ -67,7 +67,7 @@
 		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3i1zBYl9KWtrGK9sOM_4L3AO7QCJ5ooz1vxWxx9wMzVpFJhowEw",
 		"description": "Free IPTV from 123TV",
 		"types": ["IPTV"],
-		"repo": "danamag/stremio-123tv-local"
+		"repo": "Shwifter/Local-123-Stremio"
 	},
 	{
 		"name": "Fluxus IPTV",
